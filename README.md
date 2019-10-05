@@ -1,3 +1,2 @@
 # Industrial-practice
-University studying projects
-Graduation project
+This is an industrial practices repository.
